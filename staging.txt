@@ -2,4 +2,4 @@ its a initial file for the staging to send this to QA.
 
 Now bug is fixed here.
 
-working on another bug.
+worked on another bug.
